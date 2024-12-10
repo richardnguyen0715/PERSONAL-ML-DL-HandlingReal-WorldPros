@@ -1,0 +1,1 @@
+Mục đích: Dùng để chạy code không bị lỗi và không cần chỉnh đường dẫn.
