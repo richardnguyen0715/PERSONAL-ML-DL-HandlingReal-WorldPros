@@ -50,3 +50,13 @@ This is my personal project, a synthesis of my work and experience in installing
     * Loss function: mean absolute error.
     * Optimizer: Adam.
     * Metrics: mae.
+4. Digit Recognition with CNN.
+    *  2 Convolutional Layer : 32 (3x3) kernels + 64 (3x3) kernels, activation : relu.
+    *  2 Poolung Layer : (2,2)
+    *  1 Flatten Layer.
+    * Architechture: 128 Neurons : 1 Hidden Layer ( activation : relu ) + 10 Neurons : 1 Output Layer ( activation : softmax ).
+    * Loss function: sparse categorical crossentropy.
+    * Optimizer: Adam.
+    * Metrics: Accuracy.
+5. Data Augmentation with CNN.
+6. Sound Classification - Idea: Rainforest Connection Project.
